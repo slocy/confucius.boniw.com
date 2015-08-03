@@ -1,0 +1,1 @@
+chrome.exe --kiosk %cd%\index.html

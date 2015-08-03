@@ -1,0 +1,13 @@
+html, body{ height: 100%; margin: 0; padding: 0; border:0;}
+
+#mapBody{ height: 100%; width: 100%;}
+
+div.desc{width:460px; margin-top: 10px; display: block; margin: auto;}
+div.desc > p {
+    width:458px; word-wrap:break-word;
+    -moz-word-break: normal;
+    -o-word-break: normal;
+    word-break: normal; overflow:auto; white-space:normal;
+}
+
+div.desc > img{max-height: 458px; max-width: 458px; margin:auto;}
